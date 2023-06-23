@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/1.webp</file>
+        <file>images/2.webp</file>
+        <file>images/3.webp</file>
+        <file>images/4.webp</file>
+        <file>images/5.webp</file>
+        <file>images/6.webp</file>
+        <file>images/7.webp</file>
+        <file>images/8.webp</file>
+        <file>images/9.webp</file>
+        <file>images/1.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/1.webp</file>
+        <file>icon/2.webp</file>
+        <file>icon/3.webp</file>
+        <file>icon/4.webp</file>
+        <file>icon/5.webp</file>
+        <file>icon/6.webp</file>
+        <file>icon/7.webp</file>
+    </qresource>
+</RCC>
